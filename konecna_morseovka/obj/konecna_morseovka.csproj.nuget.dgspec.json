@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/konecna_morseovka.csproj": {}
+  },
+  "projects": {
+    "/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/konecna_morseovka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/konecna_morseovka.csproj",
+        "projectName": "konecna_morseovka",
+        "projectPath": "/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/konecna_morseovka.csproj",
+        "packagesPath": "/home/kostik/.nuget/packages/",
+        "outputPath": "/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kostik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

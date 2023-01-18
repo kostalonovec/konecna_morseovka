@@ -1,0 +1,15 @@
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/bin/Debug/net7.0/konecna_morseovka
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/bin/Debug/net7.0/konecna_morseovka.deps.json
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/bin/Debug/net7.0/konecna_morseovka.runtimeconfig.json
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/bin/Debug/net7.0/konecna_morseovka.dll
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/bin/Debug/net7.0/konecna_morseovka.pdb
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.csproj.AssemblyReference.cache
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.GeneratedMSBuildEditorConfig.editorconfig
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.AssemblyInfoInputs.cache
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.AssemblyInfo.cs
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.csproj.CoreCompileInputs.cache
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.dll
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/refint/konecna_morseovka.dll
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.pdb
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/konecna_morseovka.genruntimeconfig.cache
+/home/kostik/RiderProjects/konecna_morseovka/konecna_morseovka/obj/Debug/net7.0/ref/konecna_morseovka.dll
